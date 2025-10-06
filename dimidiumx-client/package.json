@@ -1,0 +1,35 @@
+{
+  "name": "exoplanets",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.14",
+    "@types/three": "^0.180.0",
+    "lodash": "^4.17.21",
+    "next": "15.5.4",
+    "papaparse": "^5.5.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind": "^2.3.1",
+    "three": "^0.180.0",
+    "three-stdlib": "^2.36.0",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/papaparse": "^5.3.16",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "eslint": "^9.0.0",
+    "eslint-config-next": "15.5.4",
+    "postcss": "^8.0.0",
+    "tailwindcss": "^4.1.14",
+    "typescript": "^5.0.0"
+  }
+}
